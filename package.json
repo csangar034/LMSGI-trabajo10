@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "rss": "^1.2.2",
+    "rss-parser": "^3.12.0",
+    "xmllint": "^0.1.1"
+  }
+}
