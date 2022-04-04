@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ComunicAlberti: última hora sobre la guerra entre Rusia y Ucrania]]></title>
+        <description><![CDATA[Canal de contenidos dedicado al seguimiento sobre la guerra entre Rusia y Ucrania]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 04 Apr 2022 07:51:42 GMT</lastBuildDate>
+        <item>
+            <title><![CDATA[La matanza de Bucha muestra la barbarie de la guerra de Putin]]></title>
+            <description><![CDATA[Ucrania denuncia una de las mayores masacres en Europa desde la II Guerra Mundial en esta localidad cercana a Kiev, que tras la salida de las tropas rusas ha enterrado a 280 civiles]]></description>
+            <guid isPermaLink="false">La matanza de Bucha muestra la barbarie de la guerra de Putin</guid>
+        </item>
+        <item>
+            <title><![CDATA[Así son los soldados de la Z: brutalizados, mal pagados y adoctrinados en la supremacía rusa]]></title>
+            <description><![CDATA[El horror de la retirada rusa: fosas comunes, ejecución de civiles atados y mujeres rapadas al estilo nazi]]></description>
+            <guid isPermaLink="false">Así son los soldados de la Z: brutalizados, mal pagados y adoctrinados en la supremacía rusa</guid>
+        </item>
+        <item>
+            <title><![CDATA[Jornada 39, invasión de Ucrania | Europa redoblará las sanciones a Rusia tras Bucha]]></title>
+            <description><![CDATA[Moscú ha negado las acusaciones, que atribuye a "provocaciones" de Ucrania. Varios periodistas han documentado la presencia de cuerpos maniatados en la zona]]></description>
+            <guid isPermaLink="false">Jornada 39, invasión de Ucrania | Europa redoblará las sanciones a Rusia tras Bucha</guid>
+        </item>
+        <item>
+            <title><![CDATA[Ucrania acusa a Rusia de "una masacre" en Bucha y Occidente sentencia que Putin comete "crímenes de guerra"]]></title>
+            <description><![CDATA[La invasión rusa de Ucrania es el horror. Y lo es por imágenes como las que ha dejado el paso de las tropas de Vladimir Putin por la ciudad de Bucha, en la región de Kiev, donde se acumulan decenas de cadáveres de civiles y de soldados, algunos de ellos en fosas comunes.]]></description>
+            <guid isPermaLink="false">Ucrania acusa a Rusia de &quot;una masacre&quot; en Bucha y Occidente sentencia que Putin comete &quot;crímenes de guerra&quot;</guid>
+        </item>
+        <item>
+            <title><![CDATA[Ucrania - Rusia, última hora de la guerra | Hallan más de 400 civiles muertos en territorios liberados cerca de Kiev]]></title>
+            <description><![CDATA[Ucrania cumple este lunes 40 días de guerra entre denuncias por parte de Ucrania y de la comunidad internacional de las "atrocidades" cometidas contra la población civil en Bucha. Aseguran que se han producido "ejecuciones sumarias" en la zona y la fiscalía ucraniana afirma que se han hallado los cadáveres de 400 civiles.]]></description>
+            <guid isPermaLink="false">Ucrania - Rusia, última hora de la guerra | Hallan más de 400 civiles muertos en territorios liberados cerca de Kiev</guid>
+        </item>
+    </channel>
+</rss>
